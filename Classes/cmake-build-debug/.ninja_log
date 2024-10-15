@@ -1,0 +1,11 @@
+# ninja log v5
+0	290	7507173331253661	CMakeFiles/Classes.dir/main.cpp.obj	2f3c00880d0e6ae7
+292	357	7507173331889876	Classes.exe	a707a35f59cc691e
+12	60	7507181320420641	CMakeFiles/Classes.dir/Athlete.cpp.obj	880f798c29e0738
+6	61	7507181320430631	CMakeFiles/Classes.dir/Tennis.cpp.obj	2b3ece3179fd0143
+2	323	7507181323049301	CMakeFiles/Classes.dir/main.cpp.obj	2f3c00880d0e6ae7
+10	231	7507182200582861	CMakeFiles/Classes.dir/Tennis.cpp.obj	2b3ece3179fd0143
+13	232	7507182200582861	CMakeFiles/Classes.dir/Athlete.cpp.obj	880f798c29e0738
+7	243	7507182200701959	CMakeFiles/Classes.dir/VolleyBall.cpp.obj	eec2b70d8301460e
+2	317	7507182201369020	CMakeFiles/Classes.dir/main.cpp.obj	2f3c00880d0e6ae7
+318	399	7507182202117193	Classes.exe	39a1f4c1550e3b25

@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.26)
+project(Classes)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(Classes main.cpp
+        Athlete.h
+        VolleyBall.h
+        Tennis.h
+        VolleyBall.cpp
+        Tennis.cpp
+        Athlete.cpp
+        main.cpp)
